@@ -1,4 +1,4 @@
-#LEETCODE problem
+//#LEETCODE problem Q547(MEDIUM)
 
 class Solution {
 //     private:
@@ -85,7 +85,7 @@ public:
 
 <--END-->
 
-#GFG Problem
+#GFG Problem (MEDIUM)
 
 class Solution {
     private:
