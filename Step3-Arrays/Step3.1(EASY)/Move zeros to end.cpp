@@ -1,4 +1,4 @@
-// #LEETCODE Q283
+// #LEETCODE Q283 + GFG(EASY)
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
